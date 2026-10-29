@@ -1,7 +1,7 @@
 # Hi, I'm Hema Sankari 👋
 
 **.NET Developer** · C# · ASP.NET Core · WPF · .NET MAUI · Azure
-📍 Tamil Nadu, India · Open to roles in Coimbatore, Chennai & Bengaluru
+
 
 I build full-stack .NET applications: I design the SQL Server schema, write the APIs, build the UI and host it on Azure. I finished my B.E. in ECE in 2026 and spent March–October 2026 as a .NET Developer Intern at JSDevBrains Digital, shipping web, desktop and cross-platform features from first requirement to tested code.
 
