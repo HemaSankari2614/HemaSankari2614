@@ -6,7 +6,7 @@
 I build full-stack .NET applications: I design the SQL Server schema, write the APIs, build the UI and host it on Azure. I finished my B.E. in ECE in 2026 and spent March–October 2026 as a .NET Developer Intern at JSDevBrains Digital, shipping web, desktop and cross-platform features from first requirement to tested code.
 
 🌐 **Portfolio:** [hemasankari2614.github.io/HemaPortfolio](https://hemasankari2614.github.io/HemaPortfolio)
-💼 **LinkedIn:** [linkedin.com/in/hema-sankari-c-444394361](https://linkedin.com/in/hema-sankari-c-444394361)
+💼 **LinkedIn:** [linkedin.com/in/hema-sankari-c-444394361](https://linkedin.com/in/hema-sankari-c-444394361/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hemasankari2614.github.io-0A66C2?style=flat)](https://hemasankari2614.github.io/HemaPortfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hema%20Sankari%20C-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/hema-sankari-c-444394361)
